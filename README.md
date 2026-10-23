@@ -1,6 +1,12 @@
 # International Sale Report & GenAI Streamlit App 📊🚀
 
+### 🚀 Launch Interactive Notebooks
+[![Open In Colab: Sales Analysis](https://google.com)](https://colab.research.google.com/drive/13tZ29aIb8t-AylGL-bgN_nm0Vt4w9jd4)
+
+[![Open In Colab: GenAI App](https://google.com)](https://colab.research.google.com/drive/1BFN9dC9IkBbpm_FCVkQ4KzqhaLqOF1p4)
+
 An end-to-end AI/ML and generative AI application designed to process, analyze, and extract key business insights from international sales transactions, complete with an interactive Streamlit user interface.
+
 
 ## 📁 Repository Structure
 * **`GenAI_Streamlit_App(final).ipynb`**: The notebook containing the Generative AI application framework and Streamlit deployment setup.
